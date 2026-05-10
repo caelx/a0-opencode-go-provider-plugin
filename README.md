@@ -1,5 +1,7 @@
 # OpenCode Go Provider
 
+<img src="webui/thumbnail.png" alt="OpenCode Go Provider logo" width="160">
+
 Adds OpenCode Go as an Agent Zero chat model provider.
 
 This is a root-layout Agent Zero community plugin. Agent Zero installs it from Git because `plugin.yaml` lives at the repository root.
